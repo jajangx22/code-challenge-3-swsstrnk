@@ -1,6 +1,6 @@
 
 
-#### Request 
+#### Request with Network Swisstroni, Sepolia, and Mumbai
 
 ```shell
 npx hardhat run scripts/getStorage.js --network swisstronik
@@ -11,7 +11,7 @@ npx hardhat run scripts/getStorage.js --network sepolia
 ```shell
 npx hardhat run scripts/getStorage.js --network mumbai
 ```
-#### Response
+#### Response Network Swisstroni, Sepolia, and Mumbai
 
 ```shell
 {
